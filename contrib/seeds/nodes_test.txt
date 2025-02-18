@@ -1,0 +1,4 @@
+# List of fixed seed nodes for testnet
+
+# Onion nodes
+14.161.28.178:19001
